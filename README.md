@@ -281,6 +281,10 @@
 57. **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: BFS
     - **Why Important**: Foundation for BFS on trees.
+
+58. **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: BFS or DFS
+    - **Why Important**: Classic BFS level-by-level variant.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

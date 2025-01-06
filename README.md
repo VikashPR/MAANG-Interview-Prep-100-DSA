@@ -215,6 +215,9 @@
     - **Concepts**: Kadane’s algorithm
     - **Why Important**: Most asked in interviews. Classic DP example.
 
+42. **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Fibonacci pattern
+    - **Why Important**: Intro to DP basics.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

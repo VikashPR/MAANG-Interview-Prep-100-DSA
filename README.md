@@ -349,6 +349,10 @@
 73. **[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Binary search boundaries
     - **Why Important**: Edge-case heavy problem, testing boundary conditions.
+
+74. **[Find Peak Element](https://leetcode.com/problems/find-peak-element/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Binary search, Local maxima
+    - **Why Important**: Interviews love variations of peak-finding.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

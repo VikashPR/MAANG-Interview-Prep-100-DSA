@@ -125,6 +125,11 @@
     - **Concepts**: Dutch National Flag problem
     - **Why Important**: Common partitioning approach.
 
+
+22. **[Partition Labels](https://leetcode.com/problems/partition-labels/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Greedy, Counting frequency
+    - **Why Important**: Great example of multi-pass scanning.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

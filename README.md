@@ -319,6 +319,10 @@
 66. **[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: BFS/DFS, Graph coloring
     - **Why Important**: Classic bipartite check is widely asked.
+
+67. **[Network Delay Time](https://leetcode.com/problems/network-delay-time/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Dijkstra’s Algorithm
+    - **Why Important**: Weighted graph shortest path in coding interviews.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -197,6 +197,9 @@
     - **Concepts**: DFS, Backtracking
     - **Why Important**: 2D grid backtracking.
 
+38. **[N-Queens](https://leetcode.com/problems/n-queens/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Backtracking, Constraint checks
+    - **Why Important**: Quintessential backtracking problem.
 
 ---
 

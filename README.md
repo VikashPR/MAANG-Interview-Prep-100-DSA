@@ -80,6 +80,10 @@
 11. **[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: String traversal, Comparison
     - **Why Important**: Basic string processing pattern.
+
+12. **[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Two pointers
+    - **Why Important**: Palindrome checks are very common in interviews.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

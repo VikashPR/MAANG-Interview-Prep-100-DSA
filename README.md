@@ -404,6 +404,9 @@
 
 ## 🔣 Bit Manipulation
 
+86. **[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/discuss/84278)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Bitwise operations, Full adder logic
+    - **Why Important**: Fundamental for bit manipulation mastery.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

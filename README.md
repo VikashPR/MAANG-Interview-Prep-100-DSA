@@ -386,6 +386,10 @@
     - **Concepts**: Overflow checks, Math manipulation
     - **Why Important**: Edge cases with integer bounds.
 
+82. **[Add Binary](https://leetcode.com/problems/add-binary/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Bitwise addition, String manipulation
+    - **Why Important**: Shows how to handle carry bits in strings.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

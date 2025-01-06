@@ -456,6 +456,10 @@
     - **Concepts**: Max-heap or counting
     - **Why Important**: Tests building strings from frequency constraints.
     
+98. **[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: DP, Min-heap
+    - **Why Important**: Interesting approach mixing DP and heap logic.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

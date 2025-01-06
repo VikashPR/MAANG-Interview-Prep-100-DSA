@@ -226,6 +226,10 @@
 44. **[Coin Change](https://leetcode.com/problems/coin-change/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Unbounded knapsack pattern
     - **Why Important**: Classic DP problem for combination sums.
+
+45. **[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Binary search optimization, DP
+    - **Why Important**: Another all-time favorite DP problem.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -210,6 +210,11 @@
     - **Why Important**: Interviewers love variations of grid-based backtracking.
 
 ## 💻 Dynamic Programming
+
+41. **[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Kadane’s algorithm
+    - **Why Important**: Most asked in interviews. Classic DP example.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

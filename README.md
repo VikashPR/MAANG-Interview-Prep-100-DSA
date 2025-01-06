@@ -154,6 +154,10 @@
 27. **[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Monotonic stack
     - **Why Important**: Very common interview question pattern.
+
+28. **[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Stack, Queue
+    - **Why Important**: Data structure transformation.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

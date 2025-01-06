@@ -364,6 +364,9 @@
     - **Concepts**: Greedy, Circuit completeness
     - **Why Important**: Determining start point for a circular tour.
 
+77. **[Task Scheduler](https://leetcode.com/problems/task-scheduler/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Greedy, Counting
+    - **Why Important**: Scheduler-type problems are popular.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

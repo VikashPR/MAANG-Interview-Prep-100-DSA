@@ -250,6 +250,13 @@
 50. **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)** ![Hard](https://img.shields.io/badge/-Hard-red)
     - **Concepts**: Two-pointer or DP approach
     - **Why Important**: Very frequently asked, tests ability to calculate trapped water by heights.
+
+
+## 🌲 Tree
+
+51. **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Tree traversal, Recursion
+    - **Why Important**: Classic easy question to warm up with trees.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

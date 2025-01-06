@@ -381,6 +381,11 @@
     - **Why Important**: Another commonly asked problem in big tech.
 
 ## ➕ Math
+
+81. **[Reverse Integer](https://leetcode.com/problems/reverse-integer/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Overflow checks, Math manipulation
+    - **Why Important**: Edge cases with integer bounds.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

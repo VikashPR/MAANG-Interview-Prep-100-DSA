@@ -48,6 +48,11 @@
 4. **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** ![Easy](https://img.shields.io/badge/-Easy-green)
    - **Concepts**: In-place updates, Two pointers
    - **Why Important**: Frequently asked for array manipulation.
+
+5. **[3Sum](https://leetcode.com/problems/3sum/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+   - **Concepts**: Sorting, Two pointers
+   - **Why Important**: Tests array manipulation and avoiding duplicates.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

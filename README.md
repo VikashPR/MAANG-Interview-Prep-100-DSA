@@ -421,6 +421,10 @@
 89. **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Linked List pointers
     - **Why Important**: Basic merging of sorted data.
+
+90. **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Cycle detection (Floyd’s Tortoise and Hare)
+    - **Why Important**: Classic question testing cycle detection.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

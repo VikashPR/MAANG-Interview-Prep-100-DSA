@@ -307,6 +307,11 @@
 63. **[Clone Graph](https://leetcode.com/problems/clone-graph/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Graph traversal, HashMap
     - **Why Important**: Tests deep copy of graph structures.
+
+64. **[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: BFS from boundary
+    - **Why Important**: BFS on 2D grids with region identification.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

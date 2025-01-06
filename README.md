@@ -393,6 +393,10 @@
 83. **[Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Numerical palindrome check
     - **Why Important**: Quick math problem, easy to slip on edge cases.
+
+84. **[Power of Two](https://leetcode.com/problems/power-of-two/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Bitwise check or repeated multiplication
+    - **Why Important**: Basic check that’s often asked as a warm-up.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

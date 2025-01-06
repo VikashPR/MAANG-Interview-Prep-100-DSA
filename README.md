@@ -438,6 +438,10 @@
     - **Concepts**: Midpoint, Reverse second half
     - **Why Important**: Tests combined knowledge of reversal, pointers, and palindrome check.
 
+94. **[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Divide and Conquer, Priority Queue
+    - **Why Important**: Often asked in big tech, extends merging concept.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

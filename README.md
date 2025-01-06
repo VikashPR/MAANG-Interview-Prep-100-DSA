@@ -270,6 +270,10 @@
     - **Concepts**: DFS, Postorder
     - **Why Important**: Tests recursion on subtrees.
 
+55. **[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: DFS
+    - **Why Important**: LCA is a must-know pattern for many advanced tree problems.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

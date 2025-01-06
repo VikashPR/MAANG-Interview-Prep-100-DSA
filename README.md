@@ -53,6 +53,10 @@
    - **Concepts**: Sorting, Two pointers
    - **Why Important**: Tests array manipulation and avoiding duplicates.
 
+6. **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+   - **Concepts**: Prefix and suffix products
+   - **Why Important**: Classic problem without using division.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

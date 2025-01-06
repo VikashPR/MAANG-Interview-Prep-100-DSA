@@ -20,7 +20,7 @@
 3. [👯 Two Pointers](#-two-pointers)
 4. [🥞 Stack & Queue](#-stack--queue)
 5. [🔄 Recursion & Backtracking](#-recursion--backtracking)
-6. [💻 Dynamic Programming](#dynamic-programming)
+6. [💻 Dynamic Programming](#-dynamic-programming)
 7. [🌲 Tree](#tree)
 8. [🔗 Graph & BFS/DFS](#graph--bfsdfs)
 9. [🔍 Binary Search](#binary-search)

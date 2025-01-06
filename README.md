@@ -29,7 +29,7 @@
 12. [🔣 Bit Manipulation](#-bit-manipulation)
 13. [🔗 Linked List](#-linked-list)
 14. [🏗️ Heap/Priority Queue](#%EF%B8%8F-heappriority-queue)
-15. [🎓 Bonus Tips & Study Plan](#-bonus-tips--study-plan)
+15. [🪟 Sliding Window / Interval Problems](#-sliding-window--interval-problems)
 
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-VikashPR-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/VikashPR/) [![Personal Website](https://img.shields.io/badge/Website-vikashpr.com-brightgreen?style=for-the-badge&logo=safari)](https://vikashpr.com/)
 

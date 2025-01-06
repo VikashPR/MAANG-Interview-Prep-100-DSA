@@ -7,7 +7,6 @@
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=for-the-badge&logo=appveyor)
 
 [![Made withMarkdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge&logo=markdown)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA)
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YourLinkedInURL)  <!-- Update with your actual LinkedIn URL -->
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA)
 [![GitHub issues](https://img.shields.io/github/issues/VikashPR/MAANG-Interview-Prep-100-DSA.svg?style=flat-square)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/VikashPR/MAANG-Interview-Prep-100-DSA.svg?style=flat-square)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA/graphs/contributors)

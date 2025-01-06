@@ -345,6 +345,10 @@
 72. **[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Modified Binary Search
     - **Why Important**: Very common pattern for rotating arrays.
+
+73. **[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Binary search boundaries
+    - **Why Important**: Edge-case heavy problem, testing boundary conditions.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -417,6 +417,10 @@
 88. **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Pointers, Iteration, Recursion
     - **Why Important**: Fundamental reversal logic.
+
+89. **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Linked List pointers
+    - **Why Important**: Basic merging of sorted data.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

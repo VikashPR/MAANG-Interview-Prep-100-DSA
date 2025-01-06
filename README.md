@@ -158,6 +158,10 @@
 28. **[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Stack, Queue
     - **Why Important**: Data structure transformation.
+
+29. **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Monotonic stack
+    - **Why Important**: Extension of next greater element.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

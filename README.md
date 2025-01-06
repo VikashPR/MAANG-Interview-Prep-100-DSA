@@ -358,6 +358,8 @@
     - **Concepts**: Binary search on partitions
     - **Why Important**: Top-tier problem testing advanced binary search skills.
 
+## 📈 Greedy
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -75,6 +75,11 @@
 
 
 ## 🔤 Strings
+
+
+11. **[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: String traversal, Comparison
+    - **Why Important**: Basic string processing pattern.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

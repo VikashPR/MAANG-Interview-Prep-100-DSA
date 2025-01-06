@@ -193,6 +193,11 @@
     - **Concepts**: Backtracking, String building
     - **Why Important**: Common pattern for recursion tree building.
 
+37. **[Word Search](https://leetcode.com/problems/word-search/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: DFS, Backtracking
+    - **Why Important**: 2D grid backtracking.
+
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

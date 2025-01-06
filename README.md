@@ -100,6 +100,10 @@
 16. **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Expand around center, Dynamic programming
     - **Why Important**: Shows multiple ways (center expansion, DP) to handle string DP.
+
+17. **[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Greedy, Mapping
+    - **Why Important**: Classical string + math combination.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

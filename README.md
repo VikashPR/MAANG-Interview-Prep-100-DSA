@@ -22,7 +22,7 @@
 5. [🔄 Recursion & Backtracking](#-recursion--backtracking)
 6. [💻 Dynamic Programming](#-dynamic-programming)
 7. [🌲 Tree](#-tree)
-8. [🔗 Graph & BFS/DFS](#graph--bfsdfs)
+8. [🔗 Graph & BFS/DFS](#-graph--bfsdfs)
 9. [🔍 Binary Search](#binary-search)
 10. [📈 Greedy](#greedy)
 11. [➕ Math](#math)

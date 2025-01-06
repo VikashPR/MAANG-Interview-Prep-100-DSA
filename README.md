@@ -390,6 +390,9 @@
     - **Concepts**: Bitwise addition, String manipulation
     - **Why Important**: Shows how to handle carry bits in strings.
 
+83. **[Palindrome Number](https://leetcode.com/problems/palindrome-number/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Numerical palindrome check
+    - **Why Important**: Quick math problem, easy to slip on edge cases.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

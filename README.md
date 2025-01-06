@@ -289,6 +289,10 @@
 59. **[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Inorder traversal
     - **Why Important**: BST property usage + traversal.
+
+60. **[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: DFS, Postorder
+    - **Why Important**: Common tricky question involving returning multiple info up the recursion.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

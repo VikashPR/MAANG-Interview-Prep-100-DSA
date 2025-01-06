@@ -413,6 +413,10 @@
     - **Why Important**: Basic yet common in bit manipulation discussions.
 
 ## 🔗 Linked List
+
+88. **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Pointers, Iteration, Recursion
+    - **Why Important**: Fundamental reversal logic.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

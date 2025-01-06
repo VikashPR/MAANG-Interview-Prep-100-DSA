@@ -429,6 +429,10 @@
 91. **[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Finding cycle start
     - **Why Important**: Extension to cycle detection, a must-know.
+
+92. **[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Dual-pointer technique
+    - **Why Important**: Common pattern for list intersections.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

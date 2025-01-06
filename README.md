@@ -162,6 +162,10 @@
 29. **[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Monotonic stack
     - **Why Important**: Extension of next greater element.
+
+30. **[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Stack usage
+    - **Why Important**: Expression parsing is common in interviews.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

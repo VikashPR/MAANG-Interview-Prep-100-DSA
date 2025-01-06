@@ -299,6 +299,11 @@
 61. **[Number of Islands](https://leetcode.com/problems/number-of-islands/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: BFS/DFS
     - **Why Important**: Fundamental grid connectivity.
+
+62. **[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Topological Sort, DFS
+    - **Why Important**: Must-know approach for scheduling/dependency problems.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -257,6 +257,11 @@
 51. **[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Tree traversal, Recursion
     - **Why Important**: Classic easy question to warm up with trees.
+
+52. **[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: BFS/DFS
+    - **Why Important**: Checking symmetry via recursion or queue-based BFS.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

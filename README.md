@@ -401,6 +401,9 @@
 85. **[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Parsing, Edge cases
     - **Why Important**: Handling whitespace, signs, overflow.
+
+## 🔣 Bit Manipulation
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

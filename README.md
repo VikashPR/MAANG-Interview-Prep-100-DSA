@@ -145,6 +145,11 @@
     - **Concepts**: Sliding window, HashMap
     - **Why Important**: Important for subarray + distinct element problems.
 
+## 🥞 Stack & Queue
+
+26. **[Min Stack](https://leetcode.com/problems/min-stack/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Stack, Track min in O(1)
+    - **Why Important**: Implementation detail & design.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

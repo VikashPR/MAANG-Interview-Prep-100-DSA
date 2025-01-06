@@ -68,6 +68,11 @@
 9. **[4Sum](https://leetcode.com/problems/4sum/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
    - **Concepts**: Sorting, Two Pointers
    - **Why Important**: Extension of 2-sum and 3-sum patterns.
+
+10. **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Floyd's Tortoise and Hare (Cycle detection)
+    - **Why Important**: Pattern for detecting cycles with constant extra space.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

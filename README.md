@@ -185,6 +185,9 @@
     - **Concepts**: Backtracking, Swapping
     - **Why Important**: Very commonly asked for generating permutations.
 
+35. **[Combination Sum](https://leetcode.com/problems/combination-sum/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Backtracking, Branching
+    - **Why Important**: Tests handling repeated numbers in combinations.
 
 ---
 

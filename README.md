@@ -433,6 +433,11 @@
 92. **[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Dual-pointer technique
     - **Why Important**: Common pattern for list intersections.
+
+93. **[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Midpoint, Reverse second half
+    - **Why Important**: Tests combined knowledge of reversal, pointers, and palindrome check.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

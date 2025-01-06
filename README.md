@@ -375,6 +375,10 @@
 79. **[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Stack-based greedy
     - **Why Important**: Minimizing a numeric string with constraints.
+
+80. **[Candy](https://leetcode.com/problems/candy/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Greedy distribution
+    - **Why Important**: Another commonly asked problem in big tech.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

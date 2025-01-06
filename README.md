@@ -166,6 +166,15 @@
 30. **[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Stack usage
     - **Why Important**: Expression parsing is common in interviews.
+
+## 🔄 Recursion & Backtracking
+
+31. **What is Recursion?** ![Conceptual](https://img.shields.io/badge/-Conceptual-lightgrey)
+    - *Conceptual question*
+    - **Why Important**: Understand the fundamental principle of recursive calls.
+
+
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

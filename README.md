@@ -332,6 +332,10 @@
     - **Concepts**: Tarjan’s algorithm, Bridges in a graph
     - **Why Important**: Advanced graph problem frequently asked in top-tier interviews.
 
+70. **[Word Ladder](https://leetcode.com/problems/word-ladder/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: BFS in word transformation
+    - **Why Important**: Classic BFS with transformation rules.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

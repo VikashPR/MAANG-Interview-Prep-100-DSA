@@ -328,6 +328,10 @@
     - **Concepts**: Union-Find or DFS
     - **Why Important**: Basic connectivity checks in graphs.
 
+69. **[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Tarjan’s algorithm, Bridges in a graph
+    - **Why Important**: Advanced graph problem frequently asked in top-tier interviews.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

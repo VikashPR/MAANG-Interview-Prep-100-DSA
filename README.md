@@ -312,6 +312,9 @@
     - **Concepts**: BFS from boundary
     - **Why Important**: BFS on 2D grids with region identification.
 
+65. **[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: DFS, Backtracking
+    - **Why Important**: Paths enumeration in a DAG.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

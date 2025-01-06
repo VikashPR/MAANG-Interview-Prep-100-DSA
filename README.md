@@ -37,6 +37,9 @@
    - **Concepts**: Hashing, Single-pass solution
    - **Why Important**: Classic question testing array traversal and hash map usage.
 
+2. **[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+   - **Concepts**: Sliding Window, Greedy
+   - **Why Important**: Tests ability to track min/max values in one pass.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

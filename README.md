@@ -130,6 +130,11 @@
     - **Concepts**: Greedy, Counting frequency
     - **Why Important**: Great example of multi-pass scanning.
 
+
+23. **[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Sliding window, Frequency counts
+    - **Why Important**: Classic substring + two-pointer approach.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

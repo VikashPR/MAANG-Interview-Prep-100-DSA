@@ -112,6 +112,11 @@
 19. **[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Simulation, String building
     - **Why Important**: Pattern-based re-indexing.
+
+20. **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Sliding window, Frequency counts
+    - **Why Important**: Widely asked, tests multiple edge cases in string processing.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

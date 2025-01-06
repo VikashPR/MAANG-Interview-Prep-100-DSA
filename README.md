@@ -222,6 +222,10 @@
 43. **[House Robber](https://leetcode.com/problems/house-robber/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: DP with adjacency constraints
     - **Why Important**: 1D DP with skipping constraints.
+
+44. **[Coin Change](https://leetcode.com/problems/coin-change/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Unbounded knapsack pattern
+    - **Why Important**: Classic DP problem for combination sums.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

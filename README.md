@@ -201,6 +201,9 @@
     - **Concepts**: Backtracking, Constraint checks
     - **Why Important**: Quintessential backtracking problem.
 
+39. **[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Backtracking, Subset sum
+    - **Why Important**: Tests optimization with memoization or backtracking prunes.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

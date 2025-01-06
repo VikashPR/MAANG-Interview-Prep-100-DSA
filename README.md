@@ -177,6 +177,10 @@
     - **Concepts**: Divide and Conquer, Fast exponentiation
     - **Why Important**: Basic recursion with optimization.
 
+33. **[Subsets](https://leetcode.com/problems/subsets/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Backtracking
+    - **Why Important**: Foundation for generating combinations/powersets.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

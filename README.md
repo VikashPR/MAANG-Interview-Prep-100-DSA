@@ -234,6 +234,10 @@
 46. **[Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Expand around center, DP
     - **Why Important**: String-based DP problem focusing on substring checks.
+
+47. **[Maximal Square](https://leetcode.com/problems/maximal-square/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: 2D DP
+    - **Why Important**: Common 2D grid DP approach.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

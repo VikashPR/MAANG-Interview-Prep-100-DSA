@@ -230,6 +230,10 @@
 45. **[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Binary search optimization, DP
     - **Why Important**: Another all-time favorite DP problem.
+
+46. **[Palindrome Substrings](https://leetcode.com/problems/palindromic-substrings/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Expand around center, DP
+    - **Why Important**: String-based DP problem focusing on substring checks.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

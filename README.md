@@ -242,6 +242,10 @@
 48. **[Decode Ways](https://leetcode.com/problems/decode-ways/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: String DP
     - **Why Important**: Tests the understanding of sequential DP states.
+
+49. **[Word Break](https://leetcode.com/problems/word-break/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: String DP, Checking dictionary subsets
+    - **Why Important**: Realistic scenario—commonly asked.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

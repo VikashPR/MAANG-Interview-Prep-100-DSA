@@ -246,6 +246,10 @@
 49. **[Word Break](https://leetcode.com/problems/word-break/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: String DP, Checking dictionary subsets
     - **Why Important**: Realistic scenario—commonly asked.
+
+50. **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Two-pointer or DP approach
+    - **Why Important**: Very frequently asked, tests ability to calculate trapped water by heights.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

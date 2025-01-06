@@ -285,6 +285,10 @@
 58. **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: BFS or DFS
     - **Why Important**: Classic BFS level-by-level variant.
+
+59. **[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Inorder traversal
+    - **Why Important**: BST property usage + traversal.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

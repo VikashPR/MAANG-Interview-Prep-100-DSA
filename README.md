@@ -97,6 +97,9 @@
     - **Concepts**: Stack-based approach, String building
     - **Why Important**: Handling mismatched parentheses is a common interview theme.
 
+16. **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Expand around center, Dynamic programming
+    - **Why Important**: Shows multiple ways (center expansion, DP) to handle string DP.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

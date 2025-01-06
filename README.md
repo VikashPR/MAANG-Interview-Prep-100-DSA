@@ -31,7 +31,7 @@
 14. [🏗️ Heap/Priority Queue](#heappriority-queue)
 15. [🎓 Bonus Tips & Study Plan](#bonus-tips--study-plan)
 
-## 🔢 Arrays
+## 🔢 [Array](Arrays) 
 
 1. **[Two Sum](https://leetcode.com/problems/two-sum/)** ![Easy](https://img.shields.io/badge/-Easy-green)
    - **Concepts**: Hashing, Single-pass solution

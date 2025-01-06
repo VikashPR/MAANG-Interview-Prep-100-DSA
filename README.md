@@ -189,6 +189,10 @@
     - **Concepts**: Backtracking, Branching
     - **Why Important**: Tests handling repeated numbers in combinations.
 
+36. **[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Backtracking, String building
+    - **Why Important**: Common pattern for recursion tree building.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

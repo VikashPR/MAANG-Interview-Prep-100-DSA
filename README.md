@@ -108,6 +108,10 @@
 18. **[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: String manipulation, Splitting
     - **Why Important**: Tests in-place reversal logic.
+
+19. **[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Simulation, String building
+    - **Why Important**: Pattern-based re-indexing.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

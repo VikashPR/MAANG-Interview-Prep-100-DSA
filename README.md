@@ -31,45 +31,11 @@
 14. [🏗️ Heap/Priority Queue](#heappriority-queue)
 15. [🎓 Bonus Tips & Study Plan](#bonus-tips--study-plan)
 
----
-
 ## 🔢 Arrays
 
-Arrays test your ability to handle straightforward data aggregations and transformations.
-
-- **[Two Sum](https://leetcode.com/problems/two-sum/)** ![Easy](https://img.shields.io/badge/-Easy-green)
-  - **Concepts**: Hashing, Single-pass solution
-  - **Why Important**: Essential for understanding hash table applications in problem-solving.
-
-- **[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)** ![Easy](https://img.shields.io/badge/-Easy-green)
-  - **Concepts**: Single-pass, Dynamic thinking
-  - **Why Important**: Teaches you to find optimal buying and selling points, a common interview problem.
-
-- **[3Sum](https://leetcode.com/problems/3sum/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
-  - **Concepts**: Two pointers, Sorting
-  - **Why Important**: Expands on the two-pointer technique with a more complex problem setting.
-
-- **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
-  - **Concepts**: Prefix and suffix products
-  - **Why Important**: Illustrates space-efficient solutions without using division.
-
-- **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)** ![Hard](https://img.shields.io/badge/-Hard-red)
-  - **Concepts**: Cycle detection (Floyd's Tortoise and Hare)
-  - **Why Important**: A clever use of algorithms originally designed for linked list cycle detection.
-
----
-
-## 🔤 Strings
-
-Dive deep into string manipulation, a key skill for any software engineering interviews.
-
-- **[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
-  - **Concepts**: Sliding window, Character count
-  - **Why Important**: Tests your ability to maintain state in a sliding window, optimizing for specific conditions.
-
-- **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)** ![Hard](https://img.shields.io/badge/-Hard-red)
-  - **Concepts**: Sliding window, Hash map
-  - **Why Important**: This problem requires you to manage a dynamic set of requirements as you adjust your window, perfect for testing advanced problem-solving skills.
+1. **[Two Sum](https://leetcode.com/problems/two-sum/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+   - **Concepts**: Hashing, Single-pass solution
+   - **Why Important**: Classic question testing array traversal and hash map usage.
 
 ---
 

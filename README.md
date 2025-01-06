@@ -173,7 +173,9 @@
     - *Conceptual question*
     - **Why Important**: Understand the fundamental principle of recursive calls.
 
-
+32. **[Pow(x, n)](https://leetcode.com/problems/powx-n/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Divide and Conquer, Fast exponentiation
+    - **Why Important**: Basic recursion with optimization.
 
 ---
 

@@ -84,6 +84,14 @@
 12. **[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Two pointers
     - **Why Important**: Palindrome checks are very common in interviews.
+
+13. **[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Sliding window, Hashing
+    - **Why Important**: Tests efficient sub-string search technique.
+
+14. **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Hashing, Sorting
+    - **Why Important**: Common approach to grouping based on sorted keys.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

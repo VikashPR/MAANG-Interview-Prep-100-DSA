@@ -218,6 +218,10 @@
 42. **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Fibonacci pattern
     - **Why Important**: Intro to DP basics.
+
+43. **[House Robber](https://leetcode.com/problems/house-robber/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: DP with adjacency constraints
+    - **Why Important**: 1D DP with skipping constraints.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

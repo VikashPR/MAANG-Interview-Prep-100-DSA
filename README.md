@@ -64,6 +64,10 @@
 8. **[Next Permutation](https://leetcode.com/problems/next-permutation/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
    - **Concepts**: Lexicographical ordering, In-place transformations
    - **Why Important**: Tests the understanding of array rearrangements.
+
+9. **[4Sum](https://leetcode.com/problems/4sum/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+   - **Concepts**: Sorting, Two Pointers
+   - **Why Important**: Extension of 2-sum and 3-sum patterns.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

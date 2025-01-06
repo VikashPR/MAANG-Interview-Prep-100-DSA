@@ -140,6 +140,11 @@
     - **Concepts**: Geometry, Two pointers
     - **Why Important**: Showcases advanced two-pointer usage.
 
+
+25. **[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Sliding window, HashMap
+    - **Why Important**: Important for subarray + distinct element problems.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

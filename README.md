@@ -443,6 +443,10 @@
     - **Why Important**: Often asked in big tech, extends merging concept.
 
 ## 🏗️ Heap/Priority Queue
+
+95. **[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Max-heap or Quickselect
+    - **Why Important**: Classic top-k problem.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

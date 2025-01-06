@@ -442,6 +442,7 @@
     - **Concepts**: Divide and Conquer, Priority Queue
     - **Why Important**: Often asked in big tech, extends merging concept.
 
+## 🏗️ Heap/Priority Queue
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

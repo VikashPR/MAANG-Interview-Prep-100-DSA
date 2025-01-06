@@ -119,6 +119,12 @@
 
 
 ## 👯 Two Pointers
+
+
+21. **[Sort Colors](https://leetcode.com/problems/sort-colors/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Dutch National Flag problem
+    - **Why Important**: Common partitioning approach.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

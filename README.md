@@ -27,7 +27,7 @@
 10. [📈 Greedy](#-greedy)
 11. [➕ Math](#-math)
 12. [🔣 Bit Manipulation](#-bit-manipulation)
-13. [🔗 Linked List](#linked-list)
+13. [🔗 Linked List](#-linked-list)
 14. [🏗️ Heap/Priority Queue](#heappriority-queue)
 15. [🎓 Bonus Tips & Study Plan](#bonus-tips--study-plan)
 

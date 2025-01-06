@@ -262,6 +262,11 @@
     - **Concepts**: BFS/DFS
     - **Why Important**: Checking symmetry via recursion or queue-based BFS.
 
+53. **[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: DFS, Using stack
+    - **Why Important**: Basic traversal pattern, iterative vs recursive.
+
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

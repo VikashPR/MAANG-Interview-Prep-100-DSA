@@ -425,6 +425,10 @@
 90. **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Cycle detection (Floyd’s Tortoise and Hare)
     - **Why Important**: Classic question testing cycle detection.
+
+91. **[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Finding cycle start
+    - **Why Important**: Extension to cycle detection, a must-know.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

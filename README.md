@@ -16,7 +16,7 @@
 ## 📚 Table of Contents
 
 1. [🔢 Arrays](#--array)
-2. [🔤 Strings](#strings)
+2. [🔤 Strings](#-strings)
 3. [👯 Two Pointers](#two-pointers)
 4. [🥞 Stack & Queue](#stack--queue)
 5. [🔄 Recursion & Backtracking](#recursion--backtracking)

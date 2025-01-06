@@ -181,6 +181,11 @@
     - **Concepts**: Backtracking
     - **Why Important**: Foundation for generating combinations/powersets.
 
+34. **[Permutations](https://leetcode.com/problems/permutations/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Backtracking, Swapping
+    - **Why Important**: Very commonly asked for generating permutations.
+
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

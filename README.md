@@ -45,6 +45,9 @@
    - **Concepts**: Two-pointer approach
    - **Why Important**: In-place array manipulation and partitioning technique.
 
+4. **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+   - **Concepts**: In-place updates, Two pointers
+   - **Why Important**: Frequently asked for array manipulation.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

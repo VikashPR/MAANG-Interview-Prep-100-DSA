@@ -367,6 +367,10 @@
 77. **[Task Scheduler](https://leetcode.com/problems/task-scheduler/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Greedy, Counting
     - **Why Important**: Scheduler-type problems are popular.
+
+78. **[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Interval scheduling
+    - **Why Important**: Sorting intervals + selecting optimal sets is a frequent ask.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

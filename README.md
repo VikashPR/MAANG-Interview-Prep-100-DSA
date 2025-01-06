@@ -266,6 +266,9 @@
     - **Concepts**: DFS, Using stack
     - **Why Important**: Basic traversal pattern, iterative vs recursive.
 
+54. **[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: DFS, Postorder
+    - **Why Important**: Tests recursion on subtrees.
 
 ---
 

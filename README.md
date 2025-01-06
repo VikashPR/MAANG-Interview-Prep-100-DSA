@@ -40,6 +40,11 @@
 2. **[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)** ![Easy](https://img.shields.io/badge/-Easy-green)
    - **Concepts**: Sliding Window, Greedy
    - **Why Important**: Tests ability to track min/max values in one pass.
+
+3. **[Move Zeroes](https://leetcode.com/problems/move-zeroes/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+   - **Concepts**: Two-pointer approach
+   - **Why Important**: In-place array manipulation and partitioning technique.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

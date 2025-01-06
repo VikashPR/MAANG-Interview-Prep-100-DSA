@@ -304,6 +304,9 @@
     - **Concepts**: Topological Sort, DFS
     - **Why Important**: Must-know approach for scheduling/dependency problems.
 
+63. **[Clone Graph](https://leetcode.com/problems/clone-graph/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Graph traversal, HashMap
+    - **Why Important**: Tests deep copy of graph structures.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -411,6 +411,8 @@
 87. **[Count of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Bit manipulation, n & (n-1)
     - **Why Important**: Basic yet common in bit manipulation discussions.
+
+## 🔗 Linked List
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

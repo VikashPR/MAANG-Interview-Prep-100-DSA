@@ -293,6 +293,12 @@
 60. **[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)** ![Hard](https://img.shields.io/badge/-Hard-red)
     - **Concepts**: DFS, Postorder
     - **Why Important**: Common tricky question involving returning multiple info up the recursion.
+
+## 🔗 Graph & BFS/DFS
+
+61. **[Number of Islands](https://leetcode.com/problems/number-of-islands/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: BFS/DFS
+    - **Why Important**: Fundamental grid connectivity.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

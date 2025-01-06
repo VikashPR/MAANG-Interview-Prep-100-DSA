@@ -353,6 +353,11 @@
 74. **[Find Peak Element](https://leetcode.com/problems/find-peak-element/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Binary search, Local maxima
     - **Why Important**: Interviews love variations of peak-finding.
+
+75. **[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Binary search on partitions
+    - **Why Important**: Top-tier problem testing advanced binary search skills.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

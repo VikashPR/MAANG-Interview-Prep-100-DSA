@@ -135,6 +135,11 @@
     - **Concepts**: Sliding window, Frequency counts
     - **Why Important**: Classic substring + two-pointer approach.
 
+
+24. **[Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)** ![Hard](https://img.shields.io/badge/-Hard-red)
+    - **Concepts**: Geometry, Two pointers
+    - **Why Important**: Showcases advanced two-pointer usage.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

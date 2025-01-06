@@ -274,6 +274,10 @@
     - **Concepts**: DFS
     - **Why Important**: LCA is a must-know pattern for many advanced tree problems.
 
+56. **[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: DFS with range constraints, Inorder checks
+    - **Why Important**: Checking BST property is a standard interview question.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

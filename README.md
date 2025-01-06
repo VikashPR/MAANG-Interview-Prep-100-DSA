@@ -60,6 +60,10 @@
 7. **[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
    - **Concepts**: Prefix sums, Hashing
    - **Why Important**: Common pattern for solving subarray sum problems.
+
+8. **[Next Permutation](https://leetcode.com/problems/next-permutation/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+   - **Concepts**: Lexicographical ordering, In-place transformations
+   - **Why Important**: Tests the understanding of array rearrangements.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

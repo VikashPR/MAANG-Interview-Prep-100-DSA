@@ -24,7 +24,7 @@
 7. [🌲 Tree](#-tree)
 8. [🔗 Graph & BFS/DFS](#-graph--bfsdfs)
 9. [🔍 Binary Search](#-binary-search)
-10. [📈 Greedy](#greedy)
+10. [📈 Greedy](#-greedy)
 11. [➕ Math](#math)
 12. [🔣 Bit Manipulation](#bit-manipulation)
 13. [🔗 Linked List](#linked-list)

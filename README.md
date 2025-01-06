@@ -341,6 +341,10 @@
 71. **[Binary Search](https://leetcode.com/problems/binary-search/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Iterative / Recursive search
     - **Why Important**: Foundation of efficient searching.
+
+72. **[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Modified Binary Search
+    - **Why Important**: Very common pattern for rotating arrays.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

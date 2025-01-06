@@ -57,6 +57,9 @@
    - **Concepts**: Prefix and suffix products
    - **Why Important**: Classic problem without using division.
 
+7. **[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+   - **Concepts**: Prefix sums, Hashing
+   - **Why Important**: Common pattern for solving subarray sum problems.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

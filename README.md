@@ -397,6 +397,10 @@
 84. **[Power of Two](https://leetcode.com/problems/power-of-two/)** ![Easy](https://img.shields.io/badge/-Easy-green)
     - **Concepts**: Bitwise check or repeated multiplication
     - **Why Important**: Basic check that’s often asked as a warm-up.
+
+85. **[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Parsing, Edge cases
+    - **Why Important**: Handling whitespace, signs, overflow.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

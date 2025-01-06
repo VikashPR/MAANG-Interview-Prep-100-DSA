@@ -360,6 +360,10 @@
 
 ## 📈 Greedy
 
+76. **[Gas Station](https://leetcode.com/problems/gas-station/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Greedy, Circuit completeness
+    - **Why Important**: Determining start point for a circular tour.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

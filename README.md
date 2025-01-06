@@ -451,6 +451,11 @@
 96. **[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Heap or Quickselect
     - **Why Important**: Very common question for partial sorting.
+
+97. **[Reorganize String](https://leetcode.com/problems/reorganize-string/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Max-heap or counting
+    - **Why Important**: Tests building strings from frequency constraints.
+    
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

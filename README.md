@@ -92,6 +92,11 @@
 14. **[Group Anagrams](https://leetcode.com/problems/group-anagrams/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Hashing, Sorting
     - **Why Important**: Common approach to grouping based on sorted keys.
+
+15. **[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Stack-based approach, String building
+    - **Why Important**: Handling mismatched parentheses is a common interview theme.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

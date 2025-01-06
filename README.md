@@ -323,6 +323,11 @@
 67. **[Network Delay Time](https://leetcode.com/problems/network-delay-time/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Dijkstra’s Algorithm
     - **Why Important**: Weighted graph shortest path in coding interviews.
+
+68. **[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Union-Find or DFS
+    - **Why Important**: Basic connectivity checks in graphs.
+
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

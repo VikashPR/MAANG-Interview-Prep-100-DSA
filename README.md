@@ -371,6 +371,10 @@
 78. **[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: Interval scheduling
     - **Why Important**: Sorting intervals + selecting optimal sets is a frequent ask.
+
+79. **[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: Stack-based greedy
+    - **Why Important**: Minimizing a numeric string with constraints.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

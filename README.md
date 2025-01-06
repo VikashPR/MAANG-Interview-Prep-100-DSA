@@ -238,6 +238,10 @@
 47. **[Maximal Square](https://leetcode.com/problems/maximal-square/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
     - **Concepts**: 2D DP
     - **Why Important**: Common 2D grid DP approach.
+
+48. **[Decode Ways](https://leetcode.com/problems/decode-ways/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: String DP
+    - **Why Important**: Tests the understanding of sequential DP states.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

@@ -278,6 +278,9 @@
     - **Concepts**: DFS with range constraints, Inorder checks
     - **Why Important**: Checking BST property is a standard interview question.
 
+57. **[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)** ![Medium](https://img.shields.io/badge/-Medium-yellow)
+    - **Concepts**: BFS
+    - **Why Important**: Foundation for BFS on trees.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

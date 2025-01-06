@@ -336,6 +336,11 @@
     - **Concepts**: BFS in word transformation
     - **Why Important**: Classic BFS with transformation rules.
 
+## 🔍 Binary Search
+
+71. **[Binary Search](https://leetcode.com/problems/binary-search/)** ![Easy](https://img.shields.io/badge/-Easy-green)
+    - **Concepts**: Iterative / Recursive search
+    - **Why Important**: Foundation of efficient searching.
 ---
 
 Feel free to dive into each section for detailed problems and discussions designed to prepare you comprehensively for your upcoming interviews. Remember, practice makes perfect!

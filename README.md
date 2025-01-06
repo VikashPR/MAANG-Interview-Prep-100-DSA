@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/VikashPR/MAANG-Interview-Prep-100-DSA.svg?style=flat-square)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/VikashPR/MAANG-Interview-Prep-100-DSA.svg?style=flat-square)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA/graphs/contributors)
 
-> **📝 Note:** This curated list is your **ultimate guide 🌍** to acing MAANG+ interviews! Handpicked to cover the most essential **Data Structures and Algorithms** (DSA) concepts, these problems ensure you build a solid foundation for your coding interviews 🚀. 
+> **📝 Note:** This curated list is your **ultimate guide 🌍** to acing MAANG+ interviews! Handpicked to cover the most essential **Data Structures and Algorithms** (DSA) concepts, these problems ensure you build a solid foundation for your coding interviews 🚀.
 
 ## 📚 Table of Contents
 
@@ -30,6 +30,8 @@
 13. [🔗 Linked List](#linked-list)
 14. [🏗️ Heap/Priority Queue](#heappriority-queue)
 15. [🎓 Bonus Tips & Study Plan](#bonus-tips--study-plan)
+
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-VikashPR-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/VikashPR/) [![Personal Website](https://img.shields.io/badge/Website-vikashpr.com-brightgreen?style=for-the-badge&logo=safari)](https://vikashpr.com/)
 
 ## 🔢  Array
 

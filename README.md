@@ -1,11 +1,11 @@
 # 🚀 100 Must-Solve DSA Questions for MAANG+ Interviews 🌟
 
-![DSA-Awesome](https://img.shields.io/badge/DSA-Awesome-blue.svg?style=for-the-badge&logo=appveyor)
 ![GitHub stars](https://img.shields.io/github/stars/VikashPR/MAANG-Interview-Prep-100-DSA?style=social&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/VikashPR/MAANG-Interview-Prep-100-DSA?style=social&logo=github)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=appveyor)
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=for-the-badge&logo=appveyor)
 
+![DSA-Awesome](https://img.shields.io/badge/DSA-Awesome-blue.svg?style=for-the-badge&logo=appveyor)
 [![Made withMarkdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge&logo=markdown)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA)
 [![GitHub issues](https://img.shields.io/github/issues/VikashPR/MAANG-Interview-Prep-100-DSA.svg?style=flat-square)](https://github.com/VikashPR/MAANG-Interview-Prep-100-DSA/issues)

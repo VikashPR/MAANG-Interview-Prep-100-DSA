@@ -486,4 +486,3 @@ We welcome **pull requests** and **issues** from the community! Check the `contr
 ## 🙌 Support
 
 If you found this repository helpful, please consider giving it a star ⭐ and sharing it with others preparing for their interviews!
-
